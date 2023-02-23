@@ -1,0 +1,14 @@
+personal access tokens
+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
+git:https://github.com
+Kovalchuk-Alexandr
+
+git --version
+git config --global user.name "FirstName LastName"
+git config --global user.email "your_email_address@example.com"
+
+добавлени€ токена в вин10
+https://stackoverflow.com/questions/70588353/how-to-add-a-github-personal-access-token-into-windows-credentials-windows-10
+For Windows OS ? Go to Credential Manager from Control Panel => Windows Credentials => find git:https://github.com => Edit => On Password replace with with your GitHub Personal Access Token => You are Done
+
+If you donТt find git:https://github.com => Click on Add a generic credential => Internet address will be git:https://github.com and you need to type in your username and password will be your GitHub Personal Access Token => Click Ok and you are done
