@@ -1,0 +1,16 @@
+.btn {
+    -fx-background-color: red!important;
+}
+
+.btnOn:hover {
+    -fx-background-color: #898989!important;
+    -fx-rotate: 10;
+}
+
+.btnActive:pressed {
+    -fx-background-color: #898989!important;
+}
+.root {
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+}
