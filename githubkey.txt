@@ -12,3 +12,5 @@ https://stackoverflow.com/questions/70588353/how-to-add-a-github-personal-access
 For Windows OS ? Go to Credential Manager from Control Panel => Windows Credentials => find git:https://github.com => Edit => On Password replace with with your GitHub Personal Access Token => You are Done
 
 If you don’t find git:https://github.com => Click on Add a generic credential => Internet address will be git:https://github.com and you need to type in your username and password will be your GitHub Personal Access Token => Click Ok and you are done
+
+https://github.com/Kovalchuk-Alexandr/Calculator-JavaFx.git
